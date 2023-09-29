@@ -1,0 +1,12 @@
+
+helllo 
+
+1st work done
+2nd work also completed
+3rd work going on and will be completed 
+
+now 4th we are seeing the git diff >> diff between staging area/commit area and working directory
+working for  4th commit
+5th work done here
+working
+checking for skipping the staging area
